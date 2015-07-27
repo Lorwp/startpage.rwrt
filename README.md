@@ -1,5 +1,5 @@
 # startpage.rwrt
-
+*A Startpage fork for personal use*
 ## Configuration
 
 ### index.html
